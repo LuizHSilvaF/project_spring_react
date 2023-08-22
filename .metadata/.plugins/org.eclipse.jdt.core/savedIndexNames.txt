@@ -70,7 +70,6 @@ INDEX VERSION 1.132+C:\temp\ws-curso-spring-react-YT\.metadata\.plugins\org.ecli
 982607691.index
 4074077732.index
 3721467887.index
-1110324100.index
 3279234306.index
 325646301.index
 1012210515.index
